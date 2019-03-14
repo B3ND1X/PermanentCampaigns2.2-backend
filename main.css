@@ -16,14 +16,14 @@
 
 /* Change the color of links on hover */
 .topnav a:hover {
-  background-color: #ddd;
+  background-color: transparent;
   color: black;
 }
 
 /* Add an active class to highlight the current page */
 .active {
   background-color: transparent;
-  color: white;
+  color: transparent;
 }
 
 /* Hide the link that should open and close the topnav on small screens */
